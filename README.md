@@ -17,3 +17,5 @@ using the Raspberry Pi and NLP modules.
 The basic functionalities that are stated above are the main concern of the project with 
 this, the visually impaired will get a lot of help and will be able to compete in the world 
 and earn well in life. 
+
+<img src="https://github.com/shivamabrol/blindrodproject/blob/master/Rod%20Image%202.jpeg" alt="Blind Rod Image 1" width="500" height="500">
